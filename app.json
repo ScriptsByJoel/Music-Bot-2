@@ -1,0 +1,7 @@
+{
+  "name": "Beats",
+  "description": "🤖 Discord Music Bot built with repl.it",
+  "repository": "https://github.com/eritislami/evobot",
+  "logo": "https://cdn.discordapp.com/attachments/789489821986062366/801144433650696252/ff883accb2fb91323c3e3f722eef3136f5b4765d_hq.png",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
